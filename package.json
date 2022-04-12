@@ -1,0 +1,17 @@
+{
+  "name": "ewing-tag-alana-rol",
+  "version": "0.3.1",
+  "description": "üye belirlenen tagı alırsa rol verilir",
+  "main": "server.js",
+  "scripts": {
+    "test": "node .",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ewingdev",
+    "ewingbaba",
+    "tag-alana-rol"
+  ],
+  "author": "ewingdev",
+  "license": "MIT"
+}
